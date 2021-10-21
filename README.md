@@ -10,8 +10,5 @@ Again 3
 4
 5
 6
-<<<<<<< HEAD
-=======
 7
 8
->>>>>>> parent of 24990f2 (revert to version 6)
